@@ -1,8 +1,11 @@
 {
-  "name": "business-card",
+  "name": "kitani-islam",
   "version": "1.0.0",
   "description": "My personal Business Card",
   "main": "index.js",
+  "bin": {
+    "biz-card" : "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
