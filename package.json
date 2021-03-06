@@ -1,6 +1,6 @@
 {
   "name": "kitani-islam",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "My personal Business Card",
   "main": "index.js",
   "bin": {
